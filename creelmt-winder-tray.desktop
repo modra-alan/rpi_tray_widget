@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=CreelMT Winder Tray
+Exec=/usr/bin/python3 /home/modra/code/rpi_tray_widget/main.py creelmt-winder-display.service
+X-GNOME-Autostart-enabled=true
