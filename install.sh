@@ -1,0 +1,1 @@
+cp creelmt-winder-tray.desktop /home/modra/.config/autostart
